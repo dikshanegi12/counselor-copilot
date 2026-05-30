@@ -8,7 +8,7 @@ https://counselor-copilot-diksha.streamlit.app/
 
 ## The problem
 
-K-12 counselors typically support 300–500 students each. Before every meeting, they have to mentally stitch together attendance, grades, behavior flags, college application progress, and career interests from multiple systems — often in the 5 minutes between back-to-back appointments.
+K-12 counselors typically support 300–500 students each. Before every meeting, they have to mentally stitch together attendance, grades, behavior flags, college application progress, and career interests from multiple systems often in the 5 minutes between back-to-back appointments.
 
 The data exists. The time to synthesize it doesn't.
 
@@ -78,7 +78,3 @@ This is a weekend prototype. With more time, the natural next steps:
 The temptation with AI in education is to automate decisions. The opportunity is to **buy counselors back time** so they can have more, deeper, more informed human conversations with students.
 
 This prototype is built around that distinction.
-
----
-
-*Built as a weekend prototype to explore AI augmentation in college and career advising workflows.*

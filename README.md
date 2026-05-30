@@ -2,9 +2,9 @@
 
 > An AI-assisted prep tool that turns K-12 student data into counselor-ready briefs in seconds.
 
-**Try the live demo:** *(deploy link coming next step)*
+**Try the live demo:** 
 
----
+https://counselor-copilot-diksha.streamlit.app/
 
 ## The problem
 

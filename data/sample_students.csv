@@ -1,0 +1,51 @@
+student_id,first_name,last_name,grade,attendance_pct,gpa,behavior_flags_this_quarter,career_interest,pathway,college_app_progress,last_counselor_meeting_days_ago
+S1000,Jamal,Patel,9,88.5,1.86,0,Undecided,Health Science,In progress,154
+S1001,Aaliyah,Martinez,9,82.2,1.87,0,Undecided,STEM,In progress,169
+S1002,Amara,Garcia,10,90.3,2.72,1,Law / Criminal Justice,Business & Finance,Submitted,74
+S1003,Aiden,Brown,9,74.5,3.91,0,Healthcare (general),Business & Finance,Not started,157
+S1004,Layla,Brown,9,77.7,1.9,1,Undecided,Business & Finance,Not started,163
+S1005,Mateo,Smith,9,87.9,3.7,2,Education,Business & Finance,In progress,23
+S1006,Noah,Lopez,10,94.8,3.71,1,Healthcare (general),Business & Finance,Submitted,56
+S1007,Aaliyah,Johnson,10,89.4,3.34,0,Skilled Trades,Arts & Humanities,In progress,72
+S1008,Isabella,Lopez,9,98.7,3.21,2,Education,Health Science,In progress,83
+S1009,Jamal,Khan,12,81.6,1.95,2,Skilled Trades,STEM,Submitted,70
+S1010,Mateo,Martinez,12,74.0,3.44,2,Law / Criminal Justice,Business & Finance,Submitted,59
+S1011,Amara,Garcia,9,98.9,2.1,1,Business / Entrepreneurship,None yet,Not started,43
+S1012,Zara,Martinez,12,93.0,2.73,0,Undecided,Business & Finance,Multiple submitted,144
+S1013,Amara,Lopez,9,95.0,1.83,0,Mechanical Engineering,Arts & Humanities,Submitted,43
+S1014,Aaliyah,Smith,11,83.2,3.9,0,Undecided,Skilled Trades,In progress,53
+S1015,Lucas,Lopez,12,74.4,3.48,2,Nursing,Health Science,Not started,95
+S1016,Maria,Johnson,9,95.5,3.63,0,Software Engineering,None yet,In progress,127
+S1017,Sofia,Khan,10,93.7,3.95,2,Mechanical Engineering,Skilled Trades,In progress,158
+S1018,Mateo,Nguyen,12,82.3,2.27,2,Healthcare (general),Arts & Humanities,In progress,135
+S1019,Maria,Martinez,10,83.1,2.35,0,Education,Health Science,Submitted,21
+S1020,Ethan,Lopez,9,90.5,1.93,0,Undecided,STEM,Not started,74
+S1021,Jamal,Khan,12,89.4,2.27,0,Education,Health Science,Multiple submitted,27
+S1022,Ethan,Garcia,9,89.1,2.58,1,Nursing,Arts & Humanities,Multiple submitted,89
+S1023,Aaliyah,Khan,10,93.2,2.04,0,Law / Criminal Justice,STEM,In progress,74
+S1024,Amara,Davis,9,83.4,3.72,0,Nursing,None yet,Multiple submitted,141
+S1025,Zara,Khan,12,94.2,3.93,0,Education,Arts & Humanities,In progress,18
+S1026,Layla,Khan,11,74.8,1.8,1,Law / Criminal Justice,None yet,Submitted,145
+S1027,Jamal,Garcia,9,89.2,2.87,0,Healthcare (general),Health Science,Submitted,15
+S1028,Maria,Davis,9,86.9,2.91,2,Business / Entrepreneurship,Health Science,In progress,155
+S1029,Layla,Martinez,10,72.0,3.7,1,Nursing,Skilled Trades,Not started,23
+S1030,Layla,Nguyen,10,82.2,3.08,2,Healthcare (general),STEM,Submitted,70
+S1031,Diego,Smith,9,81.5,3.28,0,Skilled Trades,Skilled Trades,Multiple submitted,147
+S1032,Sofia,Lopez,9,98.9,1.96,0,Education,Business & Finance,Submitted,75
+S1033,Isabella,Davis,11,74.6,3.63,0,Software Engineering,STEM,Not started,70
+S1034,Priya,Nguyen,10,73.3,2.04,2,Healthcare (general),STEM,In progress,178
+S1035,Layla,Garcia,9,88.4,2.38,1,Law / Criminal Justice,Business & Finance,Submitted,14
+S1036,Mateo,Khan,12,70.1,3.5,0,Undecided,Health Science,In progress,31
+S1037,Ethan,Lopez,10,72.2,3.74,0,Law / Criminal Justice,STEM,Not started,13
+S1038,Jamal,Johnson,9,78.9,3.78,0,Healthcare (general),Skilled Trades,Submitted,107
+S1039,Amara,Patel,12,98.2,3.45,0,Nursing,STEM,In progress,88
+S1040,Sofia,Smith,12,92.7,2.71,0,Nursing,Arts & Humanities,Submitted,59
+S1041,Ethan,Johnson,10,75.8,3.82,0,Nursing,None yet,Submitted,52
+S1042,Diego,Davis,12,81.6,2.41,0,Undecided,Business & Finance,Submitted,10
+S1043,Maria,Smith,12,73.3,3.93,0,Healthcare (general),None yet,Submitted,83
+S1044,Layla,Martinez,10,82.7,3.97,0,Mechanical Engineering,Health Science,Multiple submitted,114
+S1045,Diego,Brown,9,70.0,3.84,2,Healthcare (general),Skilled Trades,In progress,83
+S1046,Isabella,Brown,11,89.2,2.07,0,Law / Criminal Justice,None yet,Submitted,78
+S1047,Lucas,Martinez,11,86.1,2.22,1,Law / Criminal Justice,Skilled Trades,In progress,3
+S1048,Noah,Khan,12,78.8,2.26,2,Education,Skilled Trades,Submitted,124
+S1049,Priya,Davis,11,93.0,3.91,0,Software Engineering,STEM,Not started,175
